@@ -1,0 +1,19 @@
+/Users/vaughndumas/public_html/tsble5/platforms/android/ant-build/classes.dex : \
+/Users/vaughndumas/public_html/tsble5/platforms/android/ant-build/classes/com/evothings/BLE$1.class \
+/Users/vaughndumas/public_html/tsble5/platforms/android/ant-build/classes/com/evothings/BLE$2.class \
+/Users/vaughndumas/public_html/tsble5/platforms/android/ant-build/classes/com/evothings/BLE$3.class \
+/Users/vaughndumas/public_html/tsble5/platforms/android/ant-build/classes/com/evothings/BLE$4.class \
+/Users/vaughndumas/public_html/tsble5/platforms/android/ant-build/classes/com/evothings/BLE$5.class \
+/Users/vaughndumas/public_html/tsble5/platforms/android/ant-build/classes/com/evothings/BLE$BluetoothStateReceiver.class \
+/Users/vaughndumas/public_html/tsble5/platforms/android/ant-build/classes/com/evothings/BLE$GattHandler.class \
+/Users/vaughndumas/public_html/tsble5/platforms/android/ant-build/classes/com/evothings/BLE.class \
+/Users/vaughndumas/public_html/tsble5/platforms/android/ant-build/classes/io/cordova/hellocordova/BuildConfig.class \
+/Users/vaughndumas/public_html/tsble5/platforms/android/ant-build/classes/io/cordova/hellocordova/CordovaApp.class \
+/Users/vaughndumas/public_html/tsble5/platforms/android/ant-build/classes/io/cordova/hellocordova/R$attr.class \
+/Users/vaughndumas/public_html/tsble5/platforms/android/ant-build/classes/io/cordova/hellocordova/R$drawable.class \
+/Users/vaughndumas/public_html/tsble5/platforms/android/ant-build/classes/io/cordova/hellocordova/R$string.class \
+/Users/vaughndumas/public_html/tsble5/platforms/android/ant-build/classes/io/cordova/hellocordova/R$xml.class \
+/Users/vaughndumas/public_html/tsble5/platforms/android/ant-build/classes/io/cordova/hellocordova/R.class \
+/Users/vaughndumas/public_html/tsble5/platforms/android/ant-build/classes/org/apache/cordova/device/Device.class \
+/Users/vaughndumas/public_html/tsble5/platforms/android/ant-build/classes/org/apache/cordova/vibration/Vibration.class \
+/Users/vaughndumas/public_html/tsble5/platforms/android/ant-build/dexedLibs/classes-a6cfd5165b6566c159e57123581010b9.jar \
